@@ -172,7 +172,7 @@ flutter build apk --release
   <a href="https://github.com/faizanali49">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
-  <a href="mailto:faizanali49@example.com">
+  <a href="mailto:framinrachid@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
 </p>
